@@ -34,7 +34,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img <img width="1598" height="769" alt="Screenshot 2025-11-04 053513" src="https://github.com/user-attachments/assets/49a68d19-0e17-478d-b576-a4694dcbfc33" />
+<img <img width="1598" height="769" alt="Screenshot 2025-11-04 0535132" src="https://github.com/user-attachments/assets/35bcbc44-7688-4c18-a0fb-ccc326683bfb" />
+ />
 
 </p>
 <p>
