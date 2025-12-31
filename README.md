@@ -4,8 +4,8 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>Preparing Active Directory using Azure </h1>
+This tutorial outlines step by step of setting up the infrastructure for active directory using Azure virtual machine. For practicing purposes we will start by setting the domain controller vm first and then creating a client and setting up that vm afterwards. During these steps you will create a username and password of your choosing when prompted. *Note---please jot down this information because it will be needed to login remotely. 
 
 
 <h2>Environments and Technologies Used</h2>
