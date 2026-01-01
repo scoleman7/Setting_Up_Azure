@@ -26,7 +26,7 @@ This tutorial outlines step by step of setting up the infrastructure for active 
 —
 Create a Resource Group
 Create a Virtual Network and Subnet
-Create the Domain Controller VM (Windows Server 2022) named “DC-1”
+Create the Domain Controller VM (Windows Server 2022) named “DC-1” (Domain Controller)
 
 After VM is created, set Domain Controller’s NIC Private IP address to be static
 Log into the VM and disable the Windows Firewall (for testing connectivity)
@@ -82,3 +82,11 @@ I then continued on to set ipconfig for DC-1 to "static" so that it will not cha
 Here, I'm logging into the VM for dc-1 and will do the same for client-1
 </p>
 <br />
+
+<img width="989" height="544" alt="Screenshot 2026-01-01 131524" src="https://github.com/user-attachments/assets/e79a846e-73f1-402d-91e8-dd7dedc4b46e" />
+
+Pining DC-1 IP address ensuring it's successful 
+
+<img <img width="830" height="517" alt="Screenshot 2026-01-01 131153" src="https://github.com/user-attachments/assets/6b3e9853-99ee-43c3-8ade-13f143f0cc5e" />
+
+Running ipconfig to show that the DNS server is the same for both CLient-1 and DC-1
